@@ -1,0 +1,5 @@
+read test.txt 
+write autoexec.bat 
+execute test.txt 
+read today.log 
+write today.log 

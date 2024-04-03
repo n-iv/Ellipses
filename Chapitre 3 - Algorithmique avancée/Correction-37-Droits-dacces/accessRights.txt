@@ -1,0 +1,4 @@
+autoexec.bat R X 
+test.txt R 
+game.exe X W R 
+today.log W R 
